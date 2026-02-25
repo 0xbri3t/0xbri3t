@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Arnau Briet</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bri3t&label=Profile%20views&color=0e75b6&style=flat" alt="bri3t" />
+  <img src="https://komarev.com/ghpvc/?username=0xbri3t&label=Profile%20views&color=0e75b6&style=flat" alt="0xbri3t" />
 </p>
 
 ###
@@ -182,7 +182,7 @@
 </p>
 <p>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=bri3t&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xbri3t&theme=radical&hide_border=false)<br/>
 </p>
 <p>
   
