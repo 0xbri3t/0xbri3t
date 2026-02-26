@@ -22,12 +22,12 @@
     - ERC-4626 vault built on Euler (EVK + EVC) that abstracts a looping strategy into a tokenized position.
 - **October 2025**: Online ETH Global 2025 hackathon:
     - Build and deployed a Futarchy-powered DeFi governance protocol: PYUSD payments, Pyth Pull oracles, executed on Hedera.
+- **January 2026**: ETHGlobal HackMoney 2026 – Top 10%:
+    - Built Privacy Vaults: a ZK-powered protocol enabling fully private and untraceable withdrawals and borrows. Earn yield via Aave V3 & Morpho while keeping your identity hidden. Gasless UX with EIP-7702, cross-chain via LI.FI.
 
 
 
 ###
-
-<!-- - 👨‍💻 All of my projects are available at [www.arnaubriet.com](www.arnaubriet.com) -->
 
 <!-- - 📫 How to reach me **arnaubriet@gmail.com** -->
 
@@ -186,16 +186,4 @@
 </p>
 <p>
   
-
-
-
-<!--
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bri3t/bri3t/output/snake.svg?palette=github-dark?palette=github-dark" />
-  
-  <br/><br/><br/>
-</div>
--->
 
