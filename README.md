@@ -8,7 +8,7 @@
 
 <p align="left">
   I’ve been involved in the blockchain space for over 5 years as a self-taught analyst.
-  Over the last 1–2 years, I’ve been actively learning and building with Solidity while pursuing a Computer Engineering degree. I recently decided to pause my studies to fully focus on DeFi      development and work professionally in the space.
+  Over the last 2 years, I’ve been actively learning and building with Solidity while pursuing a Computer Engineering degree. I recently decided to pause my studies to fully focus on Blockchain development and work professionally in the space.
 
   Currently deep-diving into Solidity, Foundry, smart contract architecture, protocol design, security, and EVM tooling.
   
