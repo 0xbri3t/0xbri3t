@@ -16,7 +16,7 @@
 </p>
   
 **Recent Update**:
-- **November 2024**: UDL HackEPS <strong>winners</strong>: 
+- **November 2024**: UDL HackEPS <strong>winners</strong> 🏆: 
     - Developed a responsive web application for the GFT Technologies challenge.
 - **September 2025**: Personal Project:
     - ERC-4626 vault built on Euler (EVK + EVC) that abstracts a looping strategy into a tokenized position.
@@ -24,6 +24,9 @@
     - Build and deployed a Futarchy-powered DeFi governance protocol: PYUSD payments, Pyth Pull oracles, executed on Hedera.
 - **January 2026**: ETHGlobal HackMoney 2026 – Top 10%:
     - Built Privacy Vaults: a ZK-powered protocol enabling fully private and untraceable withdrawals and borrows. Earn yield via Aave V3 & Morpho while keeping your identity hidden. Gasless UX with EIP-7702, cross-chain via LI.FI.
+- **July 2026**: ETHGlobal Lisbon – 1inch 2nd prize <strong>winner</strong> 🏆:
+    - Continuation of FutarFi: integrated 1inch Aqua/SwapVM (self-custodial trading, custom SwapVM instruction), Uniswap CCA for liquidity bootstrap, and The Graph for indexing.
+
 
 
 
